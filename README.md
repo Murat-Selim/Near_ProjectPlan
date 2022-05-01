@@ -33,11 +33,14 @@
 * This function deletes travel guide by id on the NEAR blockchain.
 
 
-### **getAllTravelList**<br>
+### **getTravels**<br>
 
 * This function returns all travel guide on the NEAR blockchain.
 
-### **getTravelsById**<br>
+### **getTravelById**<br>
 
 * This function returns travel guide by id on the NEAR blockchain.
 
+### **getTravelByOwner**<br>
+
+* This function returns travel guide by ownerId on the NEAR blockchain.
