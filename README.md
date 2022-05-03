@@ -40,7 +40,3 @@
 ### **getTravelById**<br>
 
 * This function returns travel guide by id on the NEAR blockchain.
-
-### **getTravelByOwner**<br>
-
-* This function returns travel guide by ownerId on the NEAR blockchain.
